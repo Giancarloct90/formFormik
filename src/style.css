@@ -1,0 +1,27 @@
+*{
+    padding: 0rem;
+    margin: 0rem;
+    box-sizing: border-box;
+}
+
+.formDiv{
+    background-color: bisque;
+    width: auto;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.name{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    gap: 0.7rem;
+}
+.correo{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    gap: 0.7rem;
+
+}
